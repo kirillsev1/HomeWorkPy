@@ -1,9 +1,9 @@
-"""Finding percent of letters in string."""
+"""Find percent of letters in string."""
 
 
 def findingpercent(string: str) -> str:
     """
-    Makes up a string task. Find numbers of low and uppers letters.
+    Makes up a string task. Find numbers of lower and upper letters.
 
     Args:
         string: str - first string.
