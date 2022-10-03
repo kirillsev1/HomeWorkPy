@@ -1,4 +1,4 @@
-"""Testing date for truth."""
+"""Check date for truth."""
 
 
 divider = 400
